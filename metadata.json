@@ -1,0 +1,5 @@
+{
+  "name": "DebateAI Master",
+  "description": "An AI-powered debate simulator using Gemini 3 Pro. Enter a topic, watch two generated teams of 4 debaters battle it out, and interact with the debate flow.",
+  "requestFramePermissions": []
+}
